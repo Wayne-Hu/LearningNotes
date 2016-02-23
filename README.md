@@ -1,18 +1,15 @@
 # LearningNotes
 
 ## Java
-* [Java](./java/java.md)
-	* [Java Collections](./docs/java.html#collections)
-	* [Java Exceptions](./docs/java.html#exceptions)
-	* [Java Concurrencies](./docs/java.html#concurrency)
-* [RESTful](./docs/restful.html)
+* [Java](./java.md)
+* [RESTful](./restful.md)
 
 ## JavaScript
-* [JavaScript](./docs/javascript.html)
-* [React](./docs/react.html)
+* [JavaScript](./javascript.md)
+* [React](./react.md)
 
 ## Node.js
-* [Node.js](./docs/nodejs.html)
+* [Node.js](./nodejs.md)
 
 ## HTML
 ## CSS 
